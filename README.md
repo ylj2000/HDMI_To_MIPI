@@ -1,5 +1,4 @@
 #HDMI 转 MIPI屏幕驱动
-
 这是一个可以将HDMI信号转换位mipi信号，驱动MIPI屏幕的模块。
 基于稚晖的HDMI-PI项目中的东芝方案，他本人做出了龙迅的方案，东芝方案没有进行相关调试。他的开源连接：https://github.com/peng-zhihui/HDMI-PI
 #硬件的一些说明
