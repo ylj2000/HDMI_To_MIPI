@@ -14,6 +14,8 @@
 
 >2021.06.05 更新了pocket-lcd成品的固件，修复了一些小bug。
 
+>2021.09.10 更新了更适合DIY开发的MSATA接口的版本，麻烦转到：https://github.com/ylj2000/MSATA_HDMI_MIPI
+
 # 交流
 感兴趣的可以加QQ群：879256453交流。PS:不是我的群。
 
